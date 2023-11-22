@@ -1,6 +1,15 @@
-# Income Tax Calculator
+# Vietnamese Personal Income Tax Calculator
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/Nalini1998/pen/gOQEZdZ/5d63cd69717ef7086f1c16f0664ffd24](https://codepen.io/Nalini1998/pen/gOQEZdZ/5d63cd69717ef7086f1c16f0664ffd24).
+
+# Preview 
+
+<br>
+
+<img src="https://assets.codepen.io/10602517/App_PIT+Calculator.png" alt="Vietnamese Personal Income Tax Calculator" title="Vietnamese Personal Income Tax Calculator">
+
+<br>
+
 
 # Income Tax Calculator
 
